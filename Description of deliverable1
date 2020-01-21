@@ -1,0 +1,8 @@
+For this web application, we plan to  build an online shopping web page. <br/>
+On this webpage, user  have to sign in with a new email and individual password. <br/>
+After logging in, users can search the ideal item what they want(All items are <br/>
+sorted and classificated by different catagray ) and save the item or put them <br/>
+in shopping cart , they can also check out directly or remove the item from the <br/>
+shopping cart(not pay)by themselves. Customers should provide a valid address and <br/>
+phone number or the order cannot be completed. The webpage accepts credit and debit <br/>
+card online paying. 
